@@ -1,3 +1,3 @@
-module tgbotapi
+module tgbot
 
 go 1.16
